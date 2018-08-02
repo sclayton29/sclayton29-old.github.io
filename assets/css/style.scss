@@ -8,7 +8,6 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 .nav li {
@@ -20,7 +19,8 @@
     color: white;
     text-align: center;
     padding-right: 14px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     text-decoration: none;
     font-size: 18px
 }
@@ -28,4 +28,5 @@
 .nav {
   max-width: 640px;
   margin: 0 auto;
+  background-color:black;
 }
