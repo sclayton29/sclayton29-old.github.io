@@ -19,7 +19,13 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding-right: 14px;
+    padding-bottom: 10px;
     text-decoration: none;
     font-size: 18px
+}
+
+.nav {
+  max-width: 640px;
+  margin: 0 auto;
 }
