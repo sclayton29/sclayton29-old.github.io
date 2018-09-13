@@ -3,4 +3,4 @@ Hi! My name is Sarah Pugachev (formerly Sarah Clayton). I am a digital scholarsh
 
 <a href="https://github.com/sclayton29" rel="me">Check out my code on GitHub.</a>
 
-<a href="https://twitter.com/sclayton29" rel="me">Find me on twitter.</a>
+<a href="https://twitter.com/sclayton29" rel="me authn">Find me on twitter.</a>
