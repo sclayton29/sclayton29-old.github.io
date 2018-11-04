@@ -7,5 +7,5 @@ Currently, I am a digital scholarship specialist at the University of Oklahoma L
 [I was named a Library Journal Mover and Shaker in 2017](https://www.libraryjournal.com/?detailStory=sarah-clayton-movers-shakers-2017-digital-developers#_). I have been a certified [software carpentry instructor](https://carpentries.org/) since 2016. 
 
 
-* <a href="https://github.com/sclayton29" rel="me">Check out my code on GitHub.</
+* <a href="https://github.com/sclayton29" rel="me">Check out my code on GitHub.</a>
 * <a href="https://twitter.com/sclayton29" rel="me authn">Find me on twitter.</a>
