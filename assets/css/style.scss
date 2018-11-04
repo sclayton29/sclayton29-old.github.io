@@ -16,18 +16,19 @@
 
 .nav li a {
     display: block;
-    color: white;
+    color: #C0B283;
     text-align: center;
     padding-right: 14px;
     padding-bottom: 5px;
     padding-top: 5px;
     text-decoration: none;
-    font-size: 18px
+    font-size: 20px
 }
 
 div.nav {
   max-width: 640px;
   margin: 0 auto;
+  color: #373737;
 }
 
 img {
@@ -41,4 +42,5 @@ img {
 #project_title {
   font-size: 3em;
   text-shadow: #C0B282 0px 0px 10px;
+  color: #373737;
 }
