@@ -16,13 +16,13 @@
 
 .nav li a {
     display: block;
-    color: #C0B283;
+    color: #F4F4F4;
     text-align: center;
-    padding-right: 14px;
+    padding-right: 20px;
     padding-bottom: 5px;
     padding-top: 5px;
     text-decoration: none;
-    font-size: 20px
+    font-size: 1.4em;
 }
 
 div.nav {
@@ -43,4 +43,13 @@ img {
   font-size: 3em;
   text-shadow: #C0B282 0px 0px 10px;
   color: #373737;
+}
+
+#main_content_wrap {
+  background: #F4F4F4;
+}
+
+
+#footer_wrap {
+  background: #373737;
 }
